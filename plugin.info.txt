@@ -1,0 +1,7 @@
+base   raphael
+author Szymon Olewniczak
+email  solewniczak@rid.pl
+date   2017-10-17
+name   raphael plugin
+desc   Raphaël JavaScript Library
+url    https://www.dokuwiki.org/plugin:raphael
